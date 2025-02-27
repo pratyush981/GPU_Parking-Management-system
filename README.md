@@ -1,1 +1,2 @@
-# GPU_Parking-Mangement-system
+# Parking_System
+Parking_System Project with C language
